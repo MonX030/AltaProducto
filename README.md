@@ -77,7 +77,10 @@ El grupo de RadioButtons se sustituyó por un **menú desplegable de Material 3*
 ![Checkbox](capturas/06_checkbox.png)
 
 **7. Indicador de progreso y diálogo con el resumen**
-![Progreso y resumen](capturas/07_progreso_resumen.png/resuemncompleto.png)
+![Progreso y resumen](capturas/07_progreso_resumen.png)
 
 **8. Botón Limpiar vacía el formulario**
 ![Limpiar](capturas/08_limpiar.png)
+
+**9. Resumen complerto**
+!¨[Resumn](capturas/resuemncompleto.png)
