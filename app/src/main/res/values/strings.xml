@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alta Producto</string>
+    <string name="form_title">Alta de producto</string>
+    <string name="hint_name">Nombre del producto</string>
+    <string name="hint_surname">Marca</string>
+    <string name="hint_height">Precio en pesos</string>
+    <string name="hint_birth_date">Fecha de caducidad</string>
+    <string name="hint_notes">Descripción del producto</string>
+    <string name="section_occupation">Categoría</string>
+    <string name="profile_student">Abarrotes</string>
+    <string name="profile_developer">Limpieza</string>
+    <string name="profile_third">Lácteos y Refrigerados</string>
+    <string name="supporting_required">Obligatorio</string>
+    <string name="error_min_height_valid">Precio mínimo: 1 peso</string>
+    <string name="form_invalid">Formulario incompleto, revise los campos requeridos.</string>
+    <string name="cb_agree">Acepto el aviso de privacidad</string>
+    <string name="btn_register">Registrar</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_title">Datos recolectados</string>
+    <string name="dialog_clean">Limpiar</string>
+</resources>
