@@ -83,4 +83,4 @@ El grupo de RadioButtons se sustituyó por un **menú desplegable de Material 3*
 ![Limpiar](capturas/08_limpiar.png)
 
 **9. Resumen complerto**
-!¨[Resumn](capturas/resuemncompleto.png)
+![Resumen](capturas/resuemncompleto.png)
